@@ -1,6 +1,6 @@
 # coinsyde
 
-**DISCLAIMER: This tool is still highly experimental and is not fit for production nor distribution. It is only published only for historical reasons and it is planned to be deprecated by an improved, redesigned version soon.**
+**DISCLAIMER: This tool is still highly experimental and is not fit for production nor distribution. It is published only for historical reasons and it is planned to be deprecated by an improved, redesigned version soon.**
 
 ## User guide
 
